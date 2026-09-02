@@ -1,0 +1,32 @@
+a:link{
+    color: rgb(255, 0, 0);
+    background-color: blue;
+
+}
+a:visited{
+    color: aqua;
+
+}
+a:hover{
+    color: #000;
+}
+a:active{
+    color: blanchedalmond;
+}
+button{
+    background-color: blue;
+    
+}
+button:hover{
+    color: white;
+
+}
+button:active{
+    color: blueviolet;
+}
+button:visited{
+    color: grey;
+}
+li:nth-child(3n){
+    background-color: blue;
+}

@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    
+}
+p{
+    font-style: oblique;
+    font-weight: 100;
+    text-decoration:overline underline red;
+    font-size: medium;
+    color: aqua;
+}
